@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "HP-SILVER-2",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus12.actions.githubusercontent.com/kdVNLd1wyKNZ6oRSzXSgLjeYnbVJVJvqY9g0CHBrHMBI3ggmjV/",
+  "gitHubUrl": "https://github.com/tol8901/pluralsight-course-gh-actions",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
