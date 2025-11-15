@@ -1,5 +1,8 @@
 name: thanks
 
+permissions:
+  issues: write
+
 on:
   issues:
     types: opened
